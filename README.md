@@ -13,5 +13,5 @@ class smile7z:
 ```
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=XXXXX-0&theme=cobalt2&show_icons=true">
-   <img align="center" src="https://media.discordapp.net/attachments/965220252587794492/971249262501445672/20220504_101717.png"><br>
+   <img align="center" src="https://media.discordapp.net/attachments/974116149585399838/975652484766916628/imgur_com.jpeg"><br>
 </p>
