@@ -7,7 +7,7 @@ class CraxyX:
       self.age = 16
       self.gender = None
       self.single = True
-      self.main_lans = ["python","html","css","lua","javascript"]
-      self.learning_lans = [] # "lua","php"]
+      self.main_lans = ["python","lua","javascript"]
+      self.learning_lans = [] # "python","php"]
       self.contact = "soon."
 ```
