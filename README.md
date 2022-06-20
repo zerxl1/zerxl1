@@ -11,6 +11,3 @@ class CraxyX:
       self.learning_lans = [] # "lua","php"]
       self.contact = "soon."
 ```
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CraxyX&theme=cobalt2&show_icons=true">
-</p>
