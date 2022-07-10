@@ -1,7 +1,7 @@
 <h3 align="center">Hi</h3>
 
 ```python
-class CraxyX:
+class Bio:
    def __init__(self)->None:
       self.name = "xylos"
       self.age = 16
