@@ -11,3 +11,4 @@ class Bio:
       self.learning_lans = [] # "c#","php"]
       self.contact = "soon."
 ```
+[![Discord Presence](https://lanyard.cnrad.dev/api/974102561403592724)](https://discord.com/users/974102561403592724)
