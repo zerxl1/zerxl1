@@ -3,7 +3,7 @@
 ```python
 class Bio:
    def __init__(self)->None:
-      self.name = "xylos"
+      self.name = "Yuri"
       self.age = 16
       self.gender = None
       self.single = True
